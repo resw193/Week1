@@ -2,8 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import ProductCard from './Tuan01/components/ProductCard'
-
+import ProductCard from './Tuan01/components/Bai1/ProductCard'
 
 function App() {
 

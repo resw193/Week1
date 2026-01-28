@@ -1,4 +1,4 @@
-import anh from '../../assets/img/anh.jpg'
+import anh from '../../../assets/img/bai1buoi1.jpg'
 import './ProductCard.css'
 
 function ProductCard() {
